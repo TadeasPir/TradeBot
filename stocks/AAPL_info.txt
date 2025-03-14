@@ -1,0 +1,6 @@
+ticker: AAPL
+start_date: 2018-05-17
+end_date: 2025-03-07
+trading_days: 1711
+features: ['Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits', 'MA5', 'MA20', 'MA50', 'RSI', 'BB_Middle', 'BB_Std', 'BB_Upper', 'BB_Lower', 'EMA12', 'EMA26', 'MACD', 'MACD_Signal', 'Daily_Return', 'Volatility_14d', 'DayOfWeek', 'marketCap', 'peRatio', 'dividendYield', 'eps', 'beta', 'Ticker']
+fundamental_data: {'marketCap': 3591333740544, 'peRatio': 37.88748, 'dividendYield': 42.0, 'eps': 6.31, 'beta': 1.178}
